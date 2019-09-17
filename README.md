@@ -1,2 +1,2 @@
-# Documents
-Datasheet
+MKS MINI12864LCD V2.0
+MKS GEN L V2.0
